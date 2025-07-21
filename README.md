@@ -1,6 +1,11 @@
 # flutter-clone
 fluitter-clone用
 
+作成する際には、組織名がないとAppStoreにアップできないので注意
+
+```
+flutter create --org com.yourcompany（組織名） app_name
+```
 
 ### IOS 
 
